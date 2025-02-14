@@ -7,15 +7,12 @@ namespace Repositories
     public class ApplicationDbContext : DbContext
     {
         public DbSet<Pessoa> Pessoas { get; set; }
-
         private readonly IConfiguration _configuration;
-
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options, IConfiguration configuration)
             : base(options)
         {
             _configuration = configuration;
         }
-
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
