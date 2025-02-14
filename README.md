@@ -28,12 +28,11 @@ Este projeto tem como objetivo desenvolver um sistema de importação, consulta 
  ┃ ┣ 📂 Controllers       # Endpoints da API
  ┃ ┣ 📂 Models           # Modelos de dados
  ┃ ┣ 📂 Migrations       # Migrations do banco de dados
- ┃ ┣ 📂 Data             # Contexto do banco de dados
- ┃ ┣ 📄 appsettings.json # Configuração do SQL Server
+ ┣ 📄 appsettings.json # Configuração do SQL Server
  ┃ ┣ 📄 Program.cs       # Arquivo de inicialização
  ┃ ┗ ...
  ┣ 📂 cliente-python     # Cliente em Python
- ┃ ┣ 📄 main.py          # Script principal de consumo da API
+ ┃ ┣ 📄 app.py          # Script principal de consumo da API
  ┃ ┣ 📄 requirements.txt # Dependências do projeto
  ┃ ┗ ...
  ┣ 📄 README.md          # Documentação do projeto
@@ -59,7 +58,7 @@ Após a configuração, inicie a API com:
 ```sh
 dotnet run
 ```
-A API estará disponível em `http://localhost:5000`.
+A API estará disponível em `http://localhost:44371`.
 
 ### 2️⃣ Configurando e Executando o Cliente em Python
 
