@@ -1,0 +1,6 @@
+C:\Users\peter\OneDrive\Área de Trabalho\Teste\API_Teste\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\peter\OneDrive\Área de Trabalho\Teste\API_Teste\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\OneDrive\Área de Trabalho\Teste\API_Teste\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\peter\OneDrive\Área de Trabalho\Teste\API_Teste\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\peter\OneDrive\Área de Trabalho\Teste\API_Teste\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\Área de Trabalho\Teste\API_Teste\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache

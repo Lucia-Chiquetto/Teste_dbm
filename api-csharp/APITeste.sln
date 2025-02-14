@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{353FA676-2834-4D21-AD40-A4DC23E68106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{9E535175-131F-47A9-A0BF-5FEC0D72DB6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITeste", "APITeste\APITeste.csproj", "{26707C26-C508-5D2A-E4FF-2DE372B10B6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{353FA676-2834-4D21-AD40-A4DC23E68106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353FA676-2834-4D21-AD40-A4DC23E68106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353FA676-2834-4D21-AD40-A4DC23E68106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353FA676-2834-4D21-AD40-A4DC23E68106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E535175-131F-47A9-A0BF-5FEC0D72DB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E535175-131F-47A9-A0BF-5FEC0D72DB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E535175-131F-47A9-A0BF-5FEC0D72DB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E535175-131F-47A9-A0BF-5FEC0D72DB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26707C26-C508-5D2A-E4FF-2DE372B10B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26707C26-C508-5D2A-E4FF-2DE372B10B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26707C26-C508-5D2A-E4FF-2DE372B10B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26707C26-C508-5D2A-E4FF-2DE372B10B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5DAB3A0-3CBA-424D-9300-64136D070365}
+	EndGlobalSection
+EndGlobal
